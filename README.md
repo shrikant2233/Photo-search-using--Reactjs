@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.com/Yog9/SnapShot.svg)](http://hits.dwyl.com/Yog9/SnapShot)
 
-[Demo of Snap Shot](https://yog9.github.io/SnapShot/)
+[Demo of Snap Shot](http://localhost:3000/SnapShot#/SnapScout/mountain/)
 
 ![](/snapscout.png)
 
@@ -24,11 +24,11 @@ Create a config.js file in api folder inside src folders. In config.js file writ
 
 ##### Install dependencies
 
-`yarn install`
+`npm install`
 
 ##### Run Snap Shot from the root directory.
 
-`yarn start`
+`npm start`
 
 ### Built With
 
